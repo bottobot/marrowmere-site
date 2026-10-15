@@ -1,0 +1,16 @@
+{
+  "name": "Marrowmere",
+  "short_name": "Marrowmere",
+  "description": "A 16-bit-style folk horror story adventure by Keepstone Games. Coming 2027.",
+  "lang": "en-CA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#120f24",
+  "background_color": "#120f24",
+  "icons": [
+    {"src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

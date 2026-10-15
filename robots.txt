@@ -1,0 +1,7 @@
+# Marrowmere. Every page may be crawled.
+# Paths assume the site is served from the root of its domain. Under a sub-path (a GitHub Pages
+# project site) crawlers never read this file; submit sitemap.xml to the search engines instead.
+User-agent: *
+Allow: /
+
+Sitemap: https://bottobot.github.io/marrowmere-site/sitemap.xml
